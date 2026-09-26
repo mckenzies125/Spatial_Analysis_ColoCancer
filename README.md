@@ -122,9 +122,7 @@ comparisons contributed to this pattern.
 
 ### Stage at Diagnosis
 
-Stage at diagnosis varied significantly across NYC neighborhoods:
-
-**p < 0.05 **
+Stage at diagnosis varied significantly across NYC neighborhoods.
 
 This finding indicates that the distribution of colorectal cancer stage at
 diagnosis differed geographically within the study population.
@@ -132,9 +130,7 @@ diagnosis differed geographically within the study population.
 ### KRAS Mutation Status
 
 KRAS mutation prevalence also demonstrated significant geographic variation
-across NYC counties:
-
-**p < 0.05 **
+across NYC counties.
 
 The analysis therefore provided evidence that the distribution of this
 clinically relevant genomic characteristic differed geographically within
